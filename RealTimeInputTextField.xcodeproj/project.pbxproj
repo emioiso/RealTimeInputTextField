@@ -11,6 +11,7 @@
 		8512E6B82ADE31CD00C714A2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8512E6B72ADE31CD00C714A2 /* ContentView.swift */; };
 		8512E6BA2ADE31CD00C714A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8512E6B92ADE31CD00C714A2 /* Assets.xcassets */; };
 		8512E6BD2ADE31CD00C714A2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8512E6BC2ADE31CD00C714A2 /* Preview Assets.xcassets */; };
+		85F43C8C2ADE87680078AC1D /* .gitignore.xib in Resources */ = {isa = PBXBuildFile; fileRef = 85F43C8B2ADE87680078AC1D /* .gitignore.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8512E6B72ADE31CD00C714A2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8512E6B92ADE31CD00C714A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8512E6BC2ADE31CD00C714A2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		85F43C8B2ADE87680078AC1D /* .gitignore.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = .gitignore.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +37,7 @@
 		8512E6A92ADE31CD00C714A2 = {
 			isa = PBXGroup;
 			children = (
+				85F43C8B2ADE87680078AC1D /* .gitignore.xib */,
 				8512E6B42ADE31CD00C714A2 /* RealTimeInputTextField */,
 				8512E6B32ADE31CD00C714A2 /* Products */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85F43C8C2ADE87680078AC1D /* .gitignore.xib in Resources */,
 				8512E6BD2ADE31CD00C714A2 /* Preview Assets.xcassets in Resources */,
 				8512E6BA2ADE31CD00C714A2 /* Assets.xcassets in Resources */,
 			);
